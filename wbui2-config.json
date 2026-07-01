@@ -20,7 +20,7 @@
                 "content": [
                     {
                         "title": "Welcome to Dominate Conquer Survive",
-                        "text": "Server Information.\n\nServer Rates\n\nGather x10\n\nExperience x10"
+                        "text": "\n<TextStyle.Red><TextStyle.Red>Red Text</></>Server Information.\n\nServer Rates\n\nGather x10\n\nExperience x10"
                     }
                 ]
             },
