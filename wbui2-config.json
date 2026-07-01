@@ -26,12 +26,12 @@
             },
             {
                 "layout": 2,
-                "buttontext": "2 Box layout",
+                "buttontext": "<RichColor Color=\"1,2,5,1\">Server Rules</>",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
+                        "title": "Rules",
+                        "text": "😃 1. Be cool, kind, and respectful to one another.📇 2. Keep The Chat appropriate.✉️ 3. Do not spam.🔔 📣 4. No self-promotion or advertisements.🛡️ 5. No personal information.🤬 6. No hate speech or harmful language.🏛️ 7. No political or religious topics.🚨 8. No piracy, sexual, NSFW, or otherwise suspicious content.🤔 9. Rules are subject to common sense.👮‍♂️ 10. No cheating/meshing 🙏 11. Give players a chance to rebuild up if raided🙅‍♂️ 12. constant raiding the same player without them getting a chance to rebuild will be considered griefing If you suspect to be offline Prepare!!!!🤓 13. Not allowed to impersonate admin - name yourself admin/clan - repeated violations will get yourself banned"
                     },
                     {
                         "title": "Right title",
